@@ -1,2 +1,2 @@
 # R-Trees
-a group project
+Implementation based project
